@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225784888505",
+    "firebase_url": "https://corretora-sjn.firebaseio.com",
+    "project_id": "corretora-sjn",
+    "storage_bucket": "corretora-sjn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225784888505:android:09c4bee96627b9e9",
+        "android_client_info": {
+          "package_name": "com.felipe.android.corretorasjn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225784888505-a3u5srvjc9n1rq7vtcu1e8bq30atu4pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmTWsVzsFNz17Ei_qRvXFP82-UhSBfQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
