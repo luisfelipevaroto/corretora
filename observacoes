@@ -1,5 +1,6 @@
 Quase o mesmo código enviado anteriormente pelo google drive!
-os layouts: activity_admin.xml, activity_login.xml, activity_main.xml, fragment_venda.xml e fragment_aluguel.xml. Possuem as respectivas class: AdminActivity.java, LoginActivity.java, MainActivity.java, VendaFragment, AluguelFragment.
+os layouts: activity_admin.xml, activity_login.xml, activity_main.xml, fragment_venda.xml e fragment_aluguel.xml
+Possuem as respectivas class: AdminActivity.java, LoginActivity.java, MainActivity.java, VendaFragment, AluguelFragment.
 Utilizei a página de Venda e Aluguel como um "fragment" para tentar usar o mesmo "navigation drawer" do Main.
 A tela de login está implementada com o Firebase portanto esta dando erro ao logar.
 As telas de venda e aluguel possuem apenas um ListView.
